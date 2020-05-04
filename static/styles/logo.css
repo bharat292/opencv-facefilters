@@ -1,0 +1,16 @@
+#logo{
+    width: 100%;
+    max-width: 80px;
+    height: auto;
+    float: left;
+}
+
+#logoname{
+    margin-top: 30px;
+    font-size: 2vw;
+    display: inline block;
+    float: left;
+    color: #fff;
+}
+
+#logoanch:hover { text-shadow: 0 0 10px ; }
